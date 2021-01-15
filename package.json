@@ -1,0 +1,28 @@
+{
+  "name": "Praetertunes-20",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "chalk": "^4.1.0",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.2.7",
+    "lyric-finder": "0.0.3",
+    "lyrics-finder": "^21.4.0",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.32",
+    "ms": "^2.1.2",
+    "os": "^0.1.1",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "^4.2.1"
+  }
+}
